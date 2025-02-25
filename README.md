@@ -1,4 +1,4 @@
-# 🍽️ Food Delivery Management System
+# 🍽️ Food Delivery Management System Swiggy case study
 
 A relational database system designed to manage users, restaurants, food items, menus, delivery partners, orders, and order details efficiently.
 
@@ -116,6 +116,6 @@ CREATE TABLE order_details (
 ## 📧 Contact
 For any issues or improvements, feel free to open an issue or contribute! 🎉
 
-📩 **Email:** your-email@example.com
+📩 **Email:** jitendraguptaaur@gmail.com
 
-🔗 **GitHub:** [Your Repository](https://github.com/your-username/food-delivery-db)
+🔗 **GitHub:** [Your Repository](https://github.com/jpb2022/Swiggy-Case-Study-SQL)
